@@ -1,0 +1,620 @@
+
+05/10/2017 14:06:51 PagSeguro.Session[info]: Begin
+05/10/2017 14:06:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:06:53 PagSeguro.Session[info]: Session ID: ccc52ee8e2684bbc8a76541d3ad1be39
+05/10/2017 14:24:22 PagSeguro.Session[info]: Begin
+05/10/2017 14:24:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:24:22 PagSeguro.Session[info]: Session ID: a285ea057a9b40588dfd653379c33940
+05/10/2017 14:25:46 PagSeguro.Session[info]: Begin
+05/10/2017 14:25:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:25:47 PagSeguro.Session[info]: Session ID: 4429cba24c36426c869d4c3730cc24b2
+05/10/2017 14:27:13 PagSeguro.Session[info]: Begin
+05/10/2017 14:27:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:27:13 PagSeguro.Session[info]: Session ID: aa99bc108d154509936a38eb746c28fd
+05/10/2017 14:28:13 PagSeguro.Session[info]: Begin
+05/10/2017 14:28:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:28:13 PagSeguro.Session[info]: Session ID: 103d62e0d2bd4cfea51d8f1083ba0f9b
+05/10/2017 14:29:43 PagSeguro.Session[info]: Begin
+05/10/2017 14:29:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:29:44 PagSeguro.Session[info]: Session ID: 10d1c7aa60df4bc4b1814a008d23b9a4
+05/10/2017 14:30:55 PagSeguro.Session[info]: Begin
+05/10/2017 14:30:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:30:56 PagSeguro.Session[info]: Session ID: 48514b349ab3415d91c233a4bf2dddc6
+05/10/2017 14:34:02 PagSeguro.Session[info]: Begin
+05/10/2017 14:34:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:34:03 PagSeguro.Session[info]: Session ID: b53106e1e448424b88a7f58b29895ed9
+05/10/2017 14:35:26 PagSeguro.Session[info]: Begin
+05/10/2017 14:35:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:35:27 PagSeguro.Session[info]: Session ID: 27290dc4cf8744899687f736202945c3
+05/10/2017 14:38:13 PagSeguro.Session[info]: Begin
+05/10/2017 14:38:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:38:14 PagSeguro.Session[info]: Session ID: 7da16b07d32941b8a3926397aeada332
+05/10/2017 14:38:50 PagSeguro.Session[info]: Begin
+05/10/2017 14:38:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:38:52 PagSeguro.Session[info]: Session ID: c6e340aa716e4fbcb8a6604e0cc27cfa
+05/10/2017 14:40:04 PagSeguro.Session[info]: Begin
+05/10/2017 14:40:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 14:40:05 PagSeguro.Session[info]: Session ID: 9861a10db78b4252ae62f299fb03e749
+05/10/2017 15:27:17 PagSeguro.Session[info]: Begin
+05/10/2017 15:27:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 15:27:18 PagSeguro.Session[info]: Session ID: bea7be1627ac495fb4542971ad53fdd1
+05/10/2017 15:28:18 PagSeguro.Session[info]: Begin
+05/10/2017 15:28:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 15:28:19 PagSeguro.Session[info]: Session ID: 098180b376d44857b17175c8ea5dd0f8
+05/10/2017 15:30:57 PagSeguro.Session[info]: Begin
+05/10/2017 15:30:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 15:30:58 PagSeguro.Session[info]: Session ID: c73b42e4c1314e2e8be822b6fdf70e9d
+05/10/2017 15:31:40 PagSeguro.Session[info]: Begin
+05/10/2017 15:31:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 15:31:41 PagSeguro.Session[info]: Session ID: d06b06737b0046b692d55c1599dd90ce
+05/10/2017 16:04:08 PagSeguro.Session[info]: Begin
+05/10/2017 16:04:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:04:08 PagSeguro.Session[info]: Session ID: a4236f7ed70c4ac2ab168d809f0a4560
+05/10/2017 16:05:26 PagSeguro.Session[info]: Begin
+05/10/2017 16:05:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:05:26 PagSeguro.Session[info]: Session ID: 987944e255664aec83ec65f4a8d88c69
+05/10/2017 16:12:24 PagSeguro.Session[info]: Begin
+05/10/2017 16:12:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:12:25 PagSeguro.Session[info]: Session ID: a43ded45774b46b480609e2d88beac6e
+05/10/2017 16:51:01 PagSeguro.Session[info]: Begin
+05/10/2017 16:51:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:51:02 PagSeguro.Session[info]: Session ID: d4c1d48d8bab4180837310d49ff52780
+05/10/2017 16:55:26 PagSeguro.Session[info]: Begin
+05/10/2017 16:55:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:55:26 PagSeguro.Session[info]: Session ID: 68f7ee93f29f47219cb8e01cf28fd11d
+05/10/2017 16:56:05 PagSeguro.Session[info]: Begin
+05/10/2017 16:56:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:56:05 PagSeguro.Session[info]: Session ID: 390b5639a5574fd58a1f2f997beb4d02
+05/10/2017 16:56:23 PagSeguro.Session[info]: Begin
+05/10/2017 16:56:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:56:24 PagSeguro.Session[info]: Session ID: a3436042896342f8b5395651ccaa47c7
+05/10/2017 16:56:39 PagSeguro.Session[info]: Begin
+05/10/2017 16:56:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:56:39 PagSeguro.Session[info]: Session ID: c41de308453a4fb9aea26bd3254e7494
+05/10/2017 16:56:43 PagSeguro.Session[info]: Begin
+05/10/2017 16:56:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:56:43 PagSeguro.Session[info]: Session ID: f9e90e24a96345838ac926d1c1b97605
+05/10/2017 16:57:16 PagSeguro.Session[info]: Begin
+05/10/2017 16:57:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:57:16 PagSeguro.Session[info]: Session ID: 9da74b5dc6fb4d79a8058871c98564fc
+05/10/2017 16:58:16 PagSeguro.Session[info]: Begin
+05/10/2017 16:58:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:58:18 PagSeguro.Session[info]: Session ID: 6e1b61f5294246ddb2e27827331cdabc
+05/10/2017 16:58:55 PagSeguro.Session[info]: Begin
+05/10/2017 16:58:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:58:56 PagSeguro.Session[info]: Session ID: 9b1956ac3ff84f75ba6d84236654627c
+05/10/2017 16:59:16 PagSeguro.Session[info]: Begin
+05/10/2017 16:59:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:59:17 PagSeguro.Session[info]: Session ID: 3fa14c7d54324647b442821c431273cb
+05/10/2017 16:59:28 PagSeguro.Session[info]: Begin
+05/10/2017 16:59:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:59:29 PagSeguro.Session[info]: Session ID: 0b958f9f2af44014a22ba9d2bb953633
+05/10/2017 16:59:40 PagSeguro.Session[info]: Begin
+05/10/2017 16:59:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:59:42 PagSeguro.Session[info]: Session ID: d2e9479156864c7e8ac8422b840088b5
+05/10/2017 16:59:57 PagSeguro.Session[info]: Begin
+05/10/2017 16:59:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 16:59:58 PagSeguro.Session[info]: Session ID: 2cd98f627ca040008de7a930795b96d5
+05/10/2017 17:00:22 PagSeguro.Session[info]: Begin
+05/10/2017 17:00:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:00:23 PagSeguro.Session[info]: Session ID: 56ddf48e944f41dca87ae86c12ad645e
+05/10/2017 17:00:57 PagSeguro.Session[info]: Begin
+05/10/2017 17:00:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:00:58 PagSeguro.Session[info]: Session ID: 8fa7381eb11c46be8a31765775d55a93
+05/10/2017 17:01:14 PagSeguro.Session[info]: Begin
+05/10/2017 17:01:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:01:14 PagSeguro.Session[info]: Session ID: 081577fbdbeb4dfbb2dc21aab8b5efb2
+05/10/2017 17:01:41 PagSeguro.Session[info]: Begin
+05/10/2017 17:01:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:01:44 PagSeguro.Session[info]: Session ID: 0e8fdceb8b404aff85d345612eb69c6a
+05/10/2017 17:02:27 PagSeguro.Session[info]: Begin
+05/10/2017 17:02:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:02:29 PagSeguro.Session[info]: Session ID: c753ad93d063477db1ebdfc5d48ba4e1
+05/10/2017 17:06:06 PagSeguro.Session[info]: Begin
+05/10/2017 17:06:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:06:08 PagSeguro.Session[info]: Session ID: 93fbf15f2f1a44199856b5828aaacb07
+05/10/2017 17:06:19 PagSeguro.Session[info]: Begin
+05/10/2017 17:06:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:06:20 PagSeguro.Session[info]: Session ID: f3edab7086ad4e3dbe971eebf71b0155
+05/10/2017 17:07:47 PagSeguro.Session[info]: Begin
+05/10/2017 17:07:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:07:48 PagSeguro.Session[info]: Session ID: c8a58aabc620435293a988c49310e98b
+05/10/2017 17:10:52 PagSeguro.Session[info]: Begin
+05/10/2017 17:10:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:10:53 PagSeguro.Session[info]: Session ID: f56fc7ea705d4085a6853936e4436df4
+05/10/2017 17:11:49 PagSeguro.Session[info]: Begin
+05/10/2017 17:11:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:11:49 PagSeguro.Session[info]: Session ID: 8f1362116db641d682ba78866c8902ce
+05/10/2017 17:13:20 PagSeguro.Session[info]: Begin
+05/10/2017 17:13:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:13:21 PagSeguro.Session[info]: Session ID: e55da0df95e64ef0a42a0b8e47001e12
+05/10/2017 17:13:24 PagSeguro.Session[info]: Begin
+05/10/2017 17:13:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:13:25 PagSeguro.Session[info]: Session ID: 63a5fec144224151b5a323b017e60ded
+05/10/2017 17:13:41 PagSeguro.Session[info]: Begin
+05/10/2017 17:13:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+05/10/2017 17:13:41 PagSeguro.Session[info]: Session ID: 48c70476a0994e62b9f22a06910ca6b0
+06/10/2017 09:15:55 PagSeguro.Session[info]: Begin
+06/10/2017 09:15:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 09:15:57 PagSeguro.Session[info]: Session ID: 0cbb774be3374865bcb1912f1be887e3
+06/10/2017 09:17:31 PagSeguro.Session[info]: Begin
+06/10/2017 09:17:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 09:17:32 PagSeguro.Session[info]: Session ID: 567354b3de794eecb2f158d13c505e3f
+06/10/2017 09:19:14 PagSeguro.Session[info]: Begin
+06/10/2017 09:19:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 09:19:14 PagSeguro.Session[info]: Session ID: f9d7520a9b9a41cba57008a6d3589143
+06/10/2017 09:21:56 PagSeguro.Session[info]: Begin
+06/10/2017 09:21:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 09:21:56 PagSeguro.Session[info]: Session ID: bc39e099a71343febc02e583c8601d59
+06/10/2017 11:23:01 PagSeguro.Session[info]: Begin
+06/10/2017 11:23:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 11:23:04 PagSeguro.Session[info]: Session ID: 6f7d2180c97940018fd2ed5e95ad9a8f
+06/10/2017 11:42:34 PagSeguro.Session[info]: Begin
+06/10/2017 11:42:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 11:42:35 PagSeguro.Session[info]: Session ID: 1f27adc44b794d6abf1d2ed9783d8830
+06/10/2017 11:46:43 PagSeguro.Session[info]: Begin
+06/10/2017 11:46:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 11:46:43 PagSeguro.Session[info]: Session ID: 08dbb6a02aa14a9fbc9b1e6219b591ee
+06/10/2017 11:47:11 PagSeguro.Session[info]: Begin
+06/10/2017 11:47:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 11:47:12 PagSeguro.Session[info]: Session ID: 4421511251964457a9dd9bae5fe2dc6e
+06/10/2017 13:03:08 PagSeguro.Session[info]: Begin
+06/10/2017 13:03:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 13:03:08 PagSeguro.Session[info]: Session ID: a715910a05b94383881b4d1b8af71af3
+06/10/2017 13:12:31 PagSeguro.Session[info]: Begin
+06/10/2017 13:12:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 13:12:33 PagSeguro.Session[info]: Session ID: 5aa154cbb8a8408998a9586f1a4c0639
+06/10/2017 13:31:58 PagSeguro.Session[info]: Begin
+06/10/2017 13:31:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 13:31:59 PagSeguro.Session[info]: Session ID: 5cc7db7d270e4694acf598c493d22616
+06/10/2017 13:32:44 PagSeguro.Session[info]: Begin
+06/10/2017 13:32:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 13:32:46 PagSeguro.Session[info]: Session ID: c3f7f219f428476b9e701a797fc585f4
+06/10/2017 13:59:30 PagSeguro.Session[info]: Begin
+06/10/2017 13:59:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 13:59:30 PagSeguro.Session[info]: Session ID: 2cc1f67a39ff4515b9b016361f0d42e2
+06/10/2017 14:34:41 PagSeguro.Session[info]: Begin
+06/10/2017 14:34:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 14:34:41 PagSeguro.Session[info]: Session ID: 294fd7cd40ce47939e8fd7a33a79e3f0
+06/10/2017 14:36:44 PagSeguro.Session[info]: Begin
+06/10/2017 14:36:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 14:36:44 PagSeguro.Session[info]: Session ID: 486bf209d7c44d06841b409cf6c8d33e
+06/10/2017 14:39:21 PagSeguro.Session[info]: Begin
+06/10/2017 14:39:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 14:39:25 PagSeguro.Session[info]: Session ID: dbe708b83aee40c7973974c326d5562f
+06/10/2017 14:48:41 PagSeguro.Session[info]: Begin
+06/10/2017 14:48:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 14:48:48 PagSeguro.Session[info]: Session ID: a5f5b9c95e584ce19056da67e6311102
+06/10/2017 14:50:22 PagSeguro.Session[info]: Begin
+06/10/2017 14:50:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 14:50:22 PagSeguro.Session[info]: Session ID: f0bbe7a04cfb4113a3e26e6cf8f0ac7d
+06/10/2017 14:57:30 PagSeguro.Session[info]: Begin
+06/10/2017 14:57:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 14:57:30 PagSeguro.Session[info]: Session ID: 2a9d84b47f434ef79b82c00c43c4c474
+06/10/2017 14:58:21 PagSeguro.Session[info]: Begin
+06/10/2017 14:58:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 14:58:26 PagSeguro.Session[info]: Session ID: 6287e0efdee74311a3bd6181762a1f6d
+06/10/2017 14:58:40 PagSeguro.Session[info]: Begin
+06/10/2017 14:58:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 14:58:41 PagSeguro.Session[info]: Session ID: cf278b1e7dfc4aada5b78701d64f19ef
+06/10/2017 14:59:31 PagSeguro.Session[info]: Begin
+06/10/2017 14:59:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 14:59:31 PagSeguro.Session[info]: Session ID: 8351dd547a9842b2bf69858bfe09f0bb
+06/10/2017 15:01:07 PagSeguro.Session[info]: Begin
+06/10/2017 15:01:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 15:01:08 PagSeguro.Session[info]: Session ID: 4789bd0b97c54861882def3027b9f840
+06/10/2017 15:01:48 PagSeguro.Session[info]: Begin
+06/10/2017 15:01:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 15:01:48 PagSeguro.Session[info]: Session ID: 91d169db13c04c508c80ff9998177b3f
+06/10/2017 15:05:02 PagSeguro.Session[info]: Begin
+06/10/2017 15:05:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 15:05:03 PagSeguro.Session[info]: Session ID: 3ec54d07cecd46dd9fbe2f34f3a48c16
+06/10/2017 15:16:03 PagSeguro.Session[info]: Begin
+06/10/2017 15:16:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 15:16:10 PagSeguro.Session[info]: Session ID: f17313e4d9c64747b99d5aece2851999
+06/10/2017 16:13:16 PagSeguro.Session[info]: Begin
+06/10/2017 16:13:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:13:17 PagSeguro.Session[info]: Session ID: 4369e8134c564cada22abe73f1933a24
+06/10/2017 16:34:19 PagSeguro.Session[info]: Begin
+06/10/2017 16:34:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:34:20 PagSeguro.Session[info]: Session ID: f89ba6c93edc4c85b6ab9aec257638c7
+06/10/2017 16:34:27 PagSeguro.Session[info]: Begin
+06/10/2017 16:34:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:34:28 PagSeguro.Session[info]: Session ID: 367512aa5cd64c3fa43ebb9819fa2ed6
+06/10/2017 16:37:50 PagSeguro.Session[info]: Begin
+06/10/2017 16:37:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:37:50 PagSeguro.Session[info]: Session ID: 7fe9df4d86de4f60a006a02ba42e682b
+06/10/2017 16:42:10 PagSeguro.Session[info]: Begin
+06/10/2017 16:42:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:42:17 PagSeguro.Session[info]: Session ID: aacf1ed8112d4a47bbba9b2c24c01429
+06/10/2017 16:48:15 PagSeguro.Session[info]: Begin
+06/10/2017 16:48:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:48:19 PagSeguro.Session[info]: Session ID: 9c176b4890144875acbd79b1cf511a74
+06/10/2017 16:50:20 PagSeguro.Session[info]: Begin
+06/10/2017 16:50:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:50:21 PagSeguro.Session[info]: Session ID: 677150b285b34b0d9583c4a9aea8a693
+06/10/2017 16:51:37 PagSeguro.Session[info]: Begin
+06/10/2017 16:51:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:51:42 PagSeguro.Session[info]: Session ID: 4ee3d75186e94f44a9700a2026882672
+06/10/2017 16:53:06 PagSeguro.Session[info]: Begin
+06/10/2017 16:53:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:53:06 PagSeguro.Session[info]: Session ID: 12377fa8c2a240008d7dd61df1eff19f
+06/10/2017 16:54:27 PagSeguro.Session[info]: Begin
+06/10/2017 16:54:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:54:28 PagSeguro.Session[info]: Session ID: cce55b20ba654dffadc446040b6d201d
+06/10/2017 16:55:21 PagSeguro.Session[info]: Begin
+06/10/2017 16:55:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+06/10/2017 16:55:26 PagSeguro.Session[info]: Session ID: 71ed862496f4417c949597fcf267e06f
+09/10/2017 09:07:33 PagSeguro.Session[info]: Begin
+09/10/2017 09:07:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 09:07:34 PagSeguro.Session[info]: Session ID: 13fbe1374a4e4335867392440781d107
+09/10/2017 09:09:58 PagSeguro.Session[info]: Begin
+09/10/2017 09:09:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 09:09:58 PagSeguro.Session[info]: Session ID: c24bae45a2ed42669837cfaa77ea438f
+09/10/2017 09:18:28 PagSeguro.Session[info]: Begin
+09/10/2017 09:18:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 09:18:29 PagSeguro.Session[info]: Session ID: 1b214d33335b44868a030d4cb7138748
+09/10/2017 09:31:56 PagSeguro.Session[info]: Begin
+09/10/2017 09:31:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 09:31:56 PagSeguro.Session[info]: Session ID: 00732a356a534036a26a0bfdc092df36
+09/10/2017 09:32:11 PagSeguro.Session[info]: Begin
+09/10/2017 09:32:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 09:32:12 PagSeguro.Session[info]: Session ID: f9afa2ef53584a1eadc9fa6729ca850b
+09/10/2017 09:39:24 PagSeguro.Session[info]: Begin
+09/10/2017 09:39:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 09:39:24 PagSeguro.Session[info]: Session ID: 214fe639531141b9a204862e26957eb0
+09/10/2017 09:46:32 PagSeguro.Session[info]: Begin
+09/10/2017 09:46:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 09:46:33 PagSeguro.Session[info]: Session ID: 7e1bf6ee446b45ab898ff5b112fd8840
+09/10/2017 09:54:24 PagSeguro.Session[info]: Begin
+09/10/2017 09:54:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 09:54:24 PagSeguro.Session[info]: Session ID: f763979ac364450eaf6716bc0eb17ddb
+09/10/2017 09:54:37 PagSeguro.Session[info]: Begin
+09/10/2017 09:54:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 09:54:38 PagSeguro.Session[info]: Session ID: 1db926b7c97240c8b76b290762717d4c
+09/10/2017 11:38:57 PagSeguro.Session[info]: Begin
+09/10/2017 11:38:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 11:38:58 PagSeguro.Session[info]: Session ID: 63935eba1d9f456997f8e0f0e6c6d986
+09/10/2017 11:40:15 PagSeguro.Session[info]: Begin
+09/10/2017 11:40:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 11:40:16 PagSeguro.Session[info]: Session ID: 840bd959c275484094aa8ef2e950993c
+09/10/2017 11:40:48 PagSeguro.Session[info]: Begin
+09/10/2017 11:40:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 11:40:48 PagSeguro.Session[info]: Session ID: 26a71e11bc494426a00470254bf3c576
+09/10/2017 13:21:07 PagSeguro.Session[info]: Begin
+09/10/2017 13:21:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 13:21:08 PagSeguro.Session[info]: Session ID: ba9bbec4bab041e3a77517d18963f5ed
+09/10/2017 13:25:49 PagSeguro.Session[info]: Begin
+09/10/2017 13:25:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 13:25:49 PagSeguro.Session[info]: Session ID: 0b43a50ee31e465cbef80e523ddae4da
+09/10/2017 13:33:10 PagSeguro.Session[info]: Begin
+09/10/2017 13:33:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 13:33:11 PagSeguro.Session[info]: Session ID: cc6b80cc5fda434480f5212dbf37adf8
+09/10/2017 13:37:04 PagSeguro.Session[info]: Begin
+09/10/2017 13:37:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 13:37:05 PagSeguro.Session[info]: Session ID: 40032c9777484a3781475c8539eb553c
+09/10/2017 13:37:07 PagSeguro.Session[info]: Begin
+09/10/2017 13:37:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 13:37:08 PagSeguro.Session[info]: Session ID: 11cb3f0a91ad4252b111af1076fe862f
+09/10/2017 13:39:29 PagSeguro.Session[info]: Begin
+09/10/2017 13:39:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 13:39:30 PagSeguro.Session[info]: Session ID: caa92ead3be5455488d4343ca4c71881
+09/10/2017 13:40:24 PagSeguro.Session[info]: Begin
+09/10/2017 13:40:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 13:40:26 PagSeguro.Session[info]: Session ID: adafe20c796a4c17a6c426162465cdd9
+09/10/2017 13:45:08 PagSeguro.Session[info]: Begin
+09/10/2017 13:45:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 13:45:10 PagSeguro.Session[info]: Session ID: 9ddf774ecfb249c793c249b8a5a99325
+09/10/2017 13:59:23 PagSeguro.Session[info]: Begin
+09/10/2017 13:59:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 13:59:24 PagSeguro.Session[info]: Session ID: 0d972e1a51c144aeb9354aefa14cbcdc
+09/10/2017 14:01:40 PagSeguro.Session[info]: Begin
+09/10/2017 14:01:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 14:01:41 PagSeguro.Session[info]: Session ID: 0c3f9ee29f4e4a5aa154fc1fe413e18b
+09/10/2017 16:16:31 PagSeguro.Session[info]: Begin
+09/10/2017 16:16:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:16:32 PagSeguro.Session[info]: Session ID: 1af92c2c0dee4254940633e43b8b2acb
+09/10/2017 16:25:01 PagSeguro.Session[info]: Begin
+09/10/2017 16:25:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:25:02 PagSeguro.Session[info]: Session ID: d325d018c37b4141b3d9bd64e95cd2b7
+09/10/2017 16:25:28 PagSeguro.Session[info]: Begin
+09/10/2017 16:25:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:25:29 PagSeguro.Session[info]: Session ID: c483e7e16bb646fca61ac2299caac03d
+09/10/2017 16:25:42 PagSeguro.Session[info]: Begin
+09/10/2017 16:25:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:25:43 PagSeguro.Session[info]: Session ID: c0a304f5825142dd90a2f03d5b7bce09
+09/10/2017 16:34:49 PagSeguro.Session[info]: Begin
+09/10/2017 16:34:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:34:50 PagSeguro.Session[info]: Session ID: abf78d5de12c475a9e4d6d4460924a26
+09/10/2017 16:37:32 PagSeguro.Session[info]: Begin
+09/10/2017 16:37:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:37:33 PagSeguro.Session[info]: Session ID: b90176634a8a4c0c85ae35914d576526
+09/10/2017 16:38:44 PagSeguro.Session[info]: Begin
+09/10/2017 16:38:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:38:44 PagSeguro.Session[info]: Session ID: 9d0d9d654dd145e0b2b989f36dec57e1
+09/10/2017 16:39:15 PagSeguro.Session[info]: Begin
+09/10/2017 16:39:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:39:16 PagSeguro.Session[info]: Session ID: 5b81c873778f4585867830aa1e6e6fac
+09/10/2017 16:39:33 PagSeguro.Session[info]: Begin
+09/10/2017 16:39:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:39:37 PagSeguro.Session[info]: Session ID: 972dd1a0bcbb450a9f232772aa560972
+09/10/2017 16:49:08 PagSeguro.Session[info]: Begin
+09/10/2017 16:49:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:49:09 PagSeguro.Session[info]: Session ID: 0039383051b140a8b39f770784cef05f
+09/10/2017 16:50:47 PagSeguro.Session[info]: Begin
+09/10/2017 16:50:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:50:48 PagSeguro.Session[info]: Session ID: c64964a1cc744987a4163e712d713742
+09/10/2017 16:55:31 PagSeguro.Session[info]: Begin
+09/10/2017 16:55:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+09/10/2017 16:55:31 PagSeguro.Session[info]: Session ID: 8ce15c3f733c454987f807f47f32a892
+10/10/2017 09:29:01 PagSeguro.Session[info]: Begin
+10/10/2017 09:29:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 09:29:03 PagSeguro.Session[info]: Session ID: 58d9bd85a864499685b083a0a372d991
+10/10/2017 09:38:19 PagSeguro.Session[info]: Begin
+10/10/2017 09:38:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 09:38:21 PagSeguro.Session[info]: Session ID: a675b5b2b4a643eaa3fbbbbe1bbc6ab2
+10/10/2017 09:40:31 PagSeguro.Session[info]: Begin
+10/10/2017 09:40:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 09:40:32 PagSeguro.Session[info]: Session ID: 6fc7f13c0c4245bb814380ab6f36af73
+10/10/2017 09:49:24 PagSeguro.Session[info]: Begin
+10/10/2017 09:49:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 09:49:25 PagSeguro.Session[info]: Session ID: bfb580bdf58b4bb9b587fcb4c512a48f
+10/10/2017 10:03:49 PagSeguro.Session[info]: Begin
+10/10/2017 10:03:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 10:03:50 PagSeguro.Session[info]: Session ID: bf71e1417d64421eb4baa57c4a3eeba3
+10/10/2017 10:05:16 PagSeguro.Session[info]: Begin
+10/10/2017 10:05:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 10:05:17 PagSeguro.Session[info]: Session ID: 286103975ad94fcfbf323caa2493de72
+10/10/2017 10:06:07 PagSeguro.Session[info]: Begin
+10/10/2017 10:06:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 10:06:08 PagSeguro.Session[info]: Session ID: 26671dd228424d778da88e6434257f85
+10/10/2017 10:16:21 PagSeguro.Session[info]: Begin
+10/10/2017 10:16:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 10:16:21 PagSeguro.Session[info]: Session ID: c157a777f2e64e51ac4e7fc7b42755b1
+10/10/2017 10:17:00 PagSeguro.Session[info]: Begin
+10/10/2017 10:17:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 10:17:01 PagSeguro.Session[info]: Session ID: 9c1730d8e9754663b6d345aa9b58e4ab
+10/10/2017 10:27:18 PagSeguro.Session[info]: Begin
+10/10/2017 10:27:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 10:27:18 PagSeguro.Session[info]: Session ID: a10dce76ec0746d9b1883b666918dc91
+10/10/2017 10:27:27 PagSeguro.Session[info]: Begin
+10/10/2017 10:27:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 10:27:27 PagSeguro.Session[info]: Session ID: 980d1951b7ea4df19f0dc1f3b4a01a00
+10/10/2017 10:27:52 PagSeguro.Session[info]: Begin
+10/10/2017 10:27:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 10:27:53 PagSeguro.Session[info]: Session ID: 316b7685229a4e569b148c747cdcd522
+10/10/2017 10:28:24 PagSeguro.Session[info]: Begin
+10/10/2017 10:28:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 10:28:25 PagSeguro.Session[info]: Session ID: 9ad1df4304dc4a10bf703f59fbe0259c
+10/10/2017 11:08:51 PagSeguro.Session[info]: Begin
+10/10/2017 11:08:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:08:52 PagSeguro.Session[info]: Session ID: 9c6b67916078412fb5be8f85e66085cd
+10/10/2017 11:10:41 PagSeguro.Session[info]: Begin
+10/10/2017 11:10:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:10:42 PagSeguro.Session[info]: Session ID: 63b161ef38ea4e0597e96e14368ae2f9
+10/10/2017 11:12:05 PagSeguro.Session[info]: Begin
+10/10/2017 11:12:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:12:06 PagSeguro.Session[info]: Session ID: 7be98c927d694fb58efe45d68c84a275
+10/10/2017 11:15:54 PagSeguro.Session[info]: Begin
+10/10/2017 11:15:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:15:55 PagSeguro.Session[info]: Session ID: 198d3fef4b074fdf970354e54792bb29
+10/10/2017 11:16:31 PagSeguro.Session[info]: Begin
+10/10/2017 11:16:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:16:32 PagSeguro.Session[info]: Session ID: 57a9a96350fd493d8b9baf7c55b153f6
+10/10/2017 11:16:39 PagSeguro.Session[info]: Begin
+10/10/2017 11:16:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:16:41 PagSeguro.Session[info]: Session ID: a98968a6ab0f4a8a97571a62d3ff2462
+10/10/2017 11:18:00 PagSeguro.Session[info]: Begin
+10/10/2017 11:18:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:18:01 PagSeguro.Session[info]: Session ID: 46f9853ac88645f0b2992787757c8024
+10/10/2017 11:18:45 PagSeguro.Session[info]: Begin
+10/10/2017 11:18:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:18:46 PagSeguro.Session[info]: Session ID: 6ecf571668b940e4b071ca62106f5f99
+10/10/2017 11:23:09 PagSeguro.Session[info]: Begin
+10/10/2017 11:23:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:23:10 PagSeguro.Session[info]: Session ID: 3b13827bed70489cbf21d6d9a8948d6c
+10/10/2017 11:24:46 PagSeguro.Session[info]: Begin
+10/10/2017 11:24:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:24:47 PagSeguro.Session[info]: Session ID: 42ad5c50b61c4e7b90d4f662c4a49321
+10/10/2017 11:26:30 PagSeguro.Session[info]: Begin
+10/10/2017 11:26:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:26:30 PagSeguro.Session[info]: Session ID: dad78c93d1c045bda0b07382283b50f8
+10/10/2017 11:28:07 PagSeguro.Session[info]: Begin
+10/10/2017 11:28:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:28:07 PagSeguro.Session[info]: Session ID: 066368327b134621997130c98669fb85
+10/10/2017 11:30:54 PagSeguro.Session[info]: Begin
+10/10/2017 11:30:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:30:56 PagSeguro.Session[info]: Session ID: 4dbfb98ab87e4cb1be103470580e6070
+10/10/2017 11:32:28 PagSeguro.Session[info]: Begin
+10/10/2017 11:32:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:32:29 PagSeguro.Session[info]: Session ID: 38dbb724a8a64393933efc1d32af7151
+10/10/2017 11:34:57 PagSeguro.Session[info]: Begin
+10/10/2017 11:34:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 11:34:58 PagSeguro.Session[info]: Session ID: 53f99faab1ed4ce0b8b6fa5f83ef18ad
+10/10/2017 17:02:42 PagSeguro.Session[info]: Begin
+10/10/2017 17:02:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+10/10/2017 17:02:43 PagSeguro.Session[info]: Session ID: d5b5f07f34a94673b4de7c534c9258d5
+12/10/2017 14:13:49 PagSeguro.Session[info]: Begin
+12/10/2017 14:13:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:13:52 PagSeguro.Session[info]: Session ID: ad1b6f6ae71a40febc8a2b17dd78505b
+12/10/2017 14:19:04 PagSeguro.Session[info]: Begin
+12/10/2017 14:19:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:19:05 PagSeguro.Session[info]: Session ID: 8e998e190b0e4e03a81e47cc5e5da73e
+12/10/2017 14:21:12 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 14:21:12 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:21:13 PagSeguro.Checkout[info]: Params: {"reference":"0","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"2","installmentValue":"50.00","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderCPF":"023.***.***-**","senderIp":"::1","senderHash":"919686ac3e1cc1fd262a8be4c56fde8e59ef0ca37439684d5c83d436962eb98e","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"d4810436fc3c4a7c8c4bd3fb44cb3bbd"}
+12/10/2017 14:21:13 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53020</code><message>sender phone is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53149</code><message>sender ip invalid value: ::1</message></error></errors>
+12/10/2017 14:21:33 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 14:21:33 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:21:33 PagSeguro.Checkout[info]: Params: {"reference":"0","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"2","installmentValue":"50.00","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderCPF":"023.***.***-**","senderIp":"::1","senderHash":"919686ac3e1cc1fd262a8be4c56fde8e59ef0ca37439684d5c83d436962eb98e","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"b3432d185d844ece87f0693c26ab80a0"}
+12/10/2017 14:21:34 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53018</code><message>sender area code is required.</message></error><error><code>53020</code><message>sender phone is required.</message></error><error><code>53149</code><message>sender ip invalid value: ::1</message></error></errors>
+12/10/2017 14:25:19 PagSeguro.Session[info]: Begin
+12/10/2017 14:25:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:25:20 PagSeguro.Session[info]: Session ID: b08941d1bbf048229bc60cc82d1cbe58
+12/10/2017 14:26:18 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 14:26:18 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:26:18 PagSeguro.Checkout[info]: Params: {"reference":"0","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"2","installmentValue":"50.00","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderCPF":"023.***.***-**","senderIp":"::1","senderHash":"c0b43dd6c2e8296ece8ad120619c370098d8147ed82d1a7c52947c87cb004b89","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"6d63c09a89144defb133c56b5d159bb9"}
+12/10/2017 14:26:19 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53018</code><message>sender area code is required.</message></error><error><code>53020</code><message>sender phone is required.</message></error><error><code>53149</code><message>sender ip invalid value: ::1</message></error></errors>
+12/10/2017 14:31:55 PagSeguro.Session[info]: Begin
+12/10/2017 14:31:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:31:55 PagSeguro.Session[info]: Session ID: 85256bee9185436d8761d5c18b835223
+12/10/2017 14:33:46 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 14:33:46 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:33:46 PagSeguro.Checkout[info]: Params: {"reference":"0","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"2","installmentValue":"50.00","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderCPF":"023.***.***-**","senderIp":"::1","senderHash":"a59b4701c9338e49cc1b28f2be46f795d5eb81cc5ffedf5a5a177ca521443097","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"599b5e90425340f7bd317949cd738465"}
+12/10/2017 14:33:47 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53020</code><message>sender phone is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53149</code><message>sender ip invalid value: ::1</message></error></errors>
+12/10/2017 14:42:10 PagSeguro.Session[info]: Begin
+12/10/2017 14:42:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:42:10 PagSeguro.Session[info]: Session ID: 45016257f17f486bbc95b66a8f82e091
+12/10/2017 14:44:57 PagSeguro.Session[info]: Begin
+12/10/2017 14:44:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:44:58 PagSeguro.Session[info]: Session ID: 6a53329500fe4ae6a42b9853ccd9b3fb
+12/10/2017 14:45:57 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 14:45:58 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:52:49 PagSeguro.Session[info]: Begin
+12/10/2017 14:52:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:52:50 PagSeguro.Session[info]: Session ID: 119b99313cdc49589b492068ff5adc2f
+12/10/2017 14:53:52 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 14:53:52 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:58:15 PagSeguro.Session[info]: Begin
+12/10/2017 14:58:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 14:58:16 PagSeguro.Session[info]: Session ID: 7db3c854bdab43c78d2b82600d4dcc3c
+12/10/2017 15:00:00 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 15:00:00 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 15:03:58 PagSeguro.Session[info]: Begin
+12/10/2017 15:03:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 15:03:59 PagSeguro.Session[info]: Session ID: 8831fa970afc424d88cf75abc379ef4a
+12/10/2017 15:04:50 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 15:04:50 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 15:04:50 PagSeguro.Checkout[info]: Params: {"reference":"2","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"3","installmentValue":"35.35","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderAreaCode":"85","senderPhone":"(**) 1111-****","senderCPF":"023.***.***-**","senderIp":"127.0.0.1","senderHash":"9de8840f082c50861e2223204f2fe5cc6edc1db126b7b828ac30d43ff793027d","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"ad49d8794043449fa58bc341242507d3"}
+12/10/2017 15:04:51 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 35.35</message></error></errors>
+12/10/2017 15:07:30 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 15:07:30 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 15:07:30 PagSeguro.Checkout[info]: Params: {"reference":"3","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"6","installmentValue":"18.45","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderAreaCode":"85","senderPhone":"(**) 1111-****","senderCPF":"023.***.***-**","senderIp":"127.0.0.1","senderHash":"9de8840f082c50861e2223204f2fe5cc6edc1db126b7b828ac30d43ff793027d","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"2e0bd1df3f4c4ddd8ece876de3dcb4ec"}
+12/10/2017 15:07:31 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 18.45</message></error></errors>
+12/10/2017 16:40:14 PagSeguro.Session[info]: Begin
+12/10/2017 16:40:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 16:40:14 PagSeguro.Session[info]: Session ID: f995229bf8a940b8ba4b38468c678d67
+12/10/2017 16:42:50 PagSeguro.Session[info]: Begin
+12/10/2017 16:42:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 16:42:50 PagSeguro.Session[info]: Session ID: f7a3958410a242b7bc0b9d28e14bd106
+12/10/2017 16:43:30 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 16:43:30 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 16:43:30 PagSeguro.Checkout[info]: Params: {"reference":"4","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"6","installmentValue":"18.45","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderAreaCode":"85","senderPhone":"(**) 1111-****","senderCPF":"023.***.***-**","senderIp":"127.0.0.1","senderHash":"72838dbdbab06a01a2ca2caf9d149bfbe78147c4d03ced436b3ff1880cc80013","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"27756908a158497eaf811827134a263c"}
+12/10/2017 16:43:32 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 18.45</message></error></errors>
+12/10/2017 16:46:59 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 16:46:59 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 16:46:59 PagSeguro.Checkout[info]: Params: {"reference":"5","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"6","installmentValue":"18.45","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderAreaCode":"85","senderPhone":"(**) 1111-****","senderCPF":"023.***.***-**","senderIp":"127.0.0.1","senderHash":"72838dbdbab06a01a2ca2caf9d149bfbe78147c4d03ced436b3ff1880cc80013","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"fa3d3ad67735402180ab4cef4d60b502"}
+12/10/2017 16:47:00 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 18.45</message></error></errors>
+12/10/2017 16:51:09 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 16:51:09 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 16:51:09 PagSeguro.Checkout[info]: Params: {"reference":"6","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"6","installmentValue":"18.45","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderAreaCode":"85","senderPhone":"(**) 1111-****","senderCPF":"023.***.***-**","senderIp":"127.0.0.1","senderHash":"72838dbdbab06a01a2ca2caf9d149bfbe78147c4d03ced436b3ff1880cc80013","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"4d393ac6cc984b1dba3faf324f8aeae0"}
+12/10/2017 16:51:10 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 18.45</message></error></errors>
+12/10/2017 16:51:33 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 16:51:33 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 16:51:33 PagSeguro.Checkout[info]: Params: {"reference":"7","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"6","installmentValue":"18.45","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderAreaCode":"85","senderPhone":"(**) 1111-****","senderCPF":"023.***.***-**","senderIp":"127.0.0.1","senderHash":"72838dbdbab06a01a2ca2caf9d149bfbe78147c4d03ced436b3ff1880cc80013","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"c031a0389e9c436bb81137323b68dbb3"}
+12/10/2017 16:51:34 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 18.45</message></error></errors>
+12/10/2017 16:59:29 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/10/2017 16:59:29 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+12/10/2017 16:59:29 PagSeguro.Checkout[info]: Params: {"reference":"8","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"1","installmentValue":"100.00","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderAreaCode":"85","senderPhone":"(**) 1111-****","senderCPF":"023.***.***-**","senderIp":"127.0.0.1","senderHash":"72838dbdbab06a01a2ca2caf9d149bfbe78147c4d03ced436b3ff1880cc80013","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"eb99a84ce0694642a20e0bbce9dddd4e"}
+12/10/2017 16:59:30 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 100.00</message></error></errors>
+16/10/2017 09:17:44 PagSeguro.Session[info]: Begin
+16/10/2017 09:17:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 09:17:45 PagSeguro.Session[info]: Session ID: 3d3dea927eb041d18634528b11bd189a
+16/10/2017 09:20:25 PagSeguro.DirectPayment.CreditCard[info]: Begin
+16/10/2017 09:20:25 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 09:20:25 PagSeguro.Checkout[info]: Params: {"reference":"9","billingAddressStreet":"helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"engenheiro luciano cavalcante","billingAddressPostalCode":"60813820","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"4","installmentValue":"26.90","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderAreaCode":"85","senderPhone":"(**) 1111-****","senderCPF":"023.***.***-**","senderIp":"127.0.0.1","senderHash":"249c419e0d2abf4cce700eb86b48d5cd91dece583d63b551694ee87ba3ed9831","shippingAddressStreet":"helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"engenheiro luciano cavalcante","shippingAddressPostalCode":"60813820","shippingAddressCountry":"BRA","creditCardToken":"9e0bb5bd78cd4a5bbb1c95fa078c1142"}
+16/10/2017 09:20:26 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 26.90</message></error></errors>
+16/10/2017 09:59:49 PagSeguro.Session[info]: Begin
+16/10/2017 09:59:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 09:59:50 PagSeguro.Session[info]: Session ID: e49b848d6a8e4e1c8b91eb0679476112
+16/10/2017 10:01:44 PagSeguro.Session[info]: Begin
+16/10/2017 10:01:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:01:44 PagSeguro.Session[info]: Session ID: 16472c62304a49599f7e4e76c0b2109b
+16/10/2017 10:02:40 PagSeguro.Session[info]: Begin
+16/10/2017 10:02:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:02:40 PagSeguro.Session[info]: Session ID: 1a7ba201d1a0459b9a7c31ced7d9e2e5
+16/10/2017 10:03:39 PagSeguro.Session[info]: Begin
+16/10/2017 10:03:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:03:40 PagSeguro.Session[info]: Session ID: 5bad2734bb384986b310f27b2481fcd6
+16/10/2017 10:04:29 PagSeguro.Session[info]: Begin
+16/10/2017 10:04:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:04:29 PagSeguro.Session[info]: Session ID: b8f34147812544608aeefaebc64f0ea9
+16/10/2017 10:05:34 PagSeguro.Session[info]: Begin
+16/10/2017 10:05:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:05:34 PagSeguro.Session[info]: Session ID: 27ad7a4cfc9e47009d5fd85ad913f1b3
+16/10/2017 10:05:53 PagSeguro.Session[info]: Begin
+16/10/2017 10:05:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:05:53 PagSeguro.Session[info]: Session ID: e7b54fa9277c4144917cf86453cf28aa
+16/10/2017 10:06:02 PagSeguro.Session[info]: Begin
+16/10/2017 10:06:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:06:03 PagSeguro.Session[info]: Session ID: c8a3911f9d58481285682a5ea25453b2
+16/10/2017 10:09:25 PagSeguro.Session[info]: Begin
+16/10/2017 10:09:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:09:25 PagSeguro.Session[info]: Session ID: 39998635eef54444a2767423d60c86e6
+16/10/2017 10:15:41 PagSeguro.Session[info]: Begin
+16/10/2017 10:15:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:15:41 PagSeguro.Session[info]: Session ID: 42ddd893c2664b47a0f72463d6974364
+16/10/2017 10:16:09 PagSeguro.Session[info]: Begin
+16/10/2017 10:16:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:16:09 PagSeguro.Session[info]: Session ID: 5a8ba39a12c9450692b8351e661fba2a
+16/10/2017 10:16:33 PagSeguro.Session[info]: Begin
+16/10/2017 10:16:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:16:33 PagSeguro.Session[info]: Session ID: 229b7fd773d94159aa8521dbec31f19f
+16/10/2017 10:17:47 PagSeguro.Session[info]: Begin
+16/10/2017 10:17:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:17:48 PagSeguro.Session[info]: Session ID: 62b7ec1d64b04fc0b2ffb9efae249854
+16/10/2017 10:20:58 PagSeguro.Session[info]: Begin
+16/10/2017 10:20:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 10:20:58 PagSeguro.Session[info]: Session ID: 0e995be47b2c4d9da248122a0f69e933
+16/10/2017 11:28:59 PagSeguro.Session[info]: Begin
+16/10/2017 11:28:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 11:29:00 PagSeguro.Session[info]: Session ID: 945dfe0b652e4e4bb270034d09330dd9
+16/10/2017 11:31:41 PagSeguro.Session[info]: Begin
+16/10/2017 11:31:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 11:31:42 PagSeguro.Session[info]: Session ID: dcbb7bbc56504856b259ee2cd9a985a2
+16/10/2017 11:33:51 PagSeguro.Session[info]: Begin
+16/10/2017 11:33:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 11:33:52 PagSeguro.Session[info]: Session ID: 6a9d23344c33435799cd92ad9ac81a92
+16/10/2017 11:36:27 PagSeguro.Session[info]: Begin
+16/10/2017 11:36:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 11:36:28 PagSeguro.Session[info]: Session ID: cd8918831763482a9dd357bc6df20ad5
+16/10/2017 11:42:19 PagSeguro.Session[info]: Begin
+16/10/2017 11:42:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 11:42:20 PagSeguro.Session[info]: Session ID: 9b57db8f4f6649c7ae5693a6ceae6df0
+16/10/2017 11:43:12 PagSeguro.Session[info]: Begin
+16/10/2017 11:43:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 11:43:13 PagSeguro.Session[info]: Session ID: d59964111435440aba114056f53383d4
+16/10/2017 13:09:41 PagSeguro.Session[info]: Begin
+16/10/2017 13:09:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 13:09:41 PagSeguro.Session[info]: Session ID: f5432afeff654f03a44d0f08c00beb07
+16/10/2017 13:20:31 PagSeguro.Session[info]: Begin
+16/10/2017 13:20:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 13:20:32 PagSeguro.Session[info]: Session ID: a19bdc58e71448cd968e6ea41097d748
+16/10/2017 13:21:19 PagSeguro.Session[info]: Begin
+16/10/2017 13:21:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 13:21:20 PagSeguro.Session[info]: Session ID: 97dd6e2051914388912fd00a057d34cb
+16/10/2017 13:22:57 PagSeguro.Session[info]: Begin
+16/10/2017 13:22:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 13:22:58 PagSeguro.Session[info]: Session ID: b4f19791081c434d8785e7a1801dfbb7
+16/10/2017 13:25:43 PagSeguro.Session[info]: Begin
+16/10/2017 13:25:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 13:25:44 PagSeguro.Session[info]: Session ID: b84d236b130e469e8628ecb19709cb92
+16/10/2017 13:26:44 PagSeguro.Session[info]: Begin
+16/10/2017 13:26:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+16/10/2017 13:26:45 PagSeguro.Session[error]: Unauthorized
+16/10/2017 13:27:00 PagSeguro.Session[info]: Begin
+16/10/2017 13:27:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+16/10/2017 13:27:01 PagSeguro.Session[error]: Unauthorized
+16/10/2017 13:31:40 PagSeguro.Session[info]: Begin
+16/10/2017 13:31:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 13:31:41 PagSeguro.Session[info]: Session ID: c5f7536f2f3b4d248bd9f27a4ec22d10
+16/10/2017 13:36:25 PagSeguro.Session[info]: Begin
+16/10/2017 13:36:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 13:36:26 PagSeguro.Session[info]: Session ID: 1639183c10f848af9a3d860d49ec677c
+16/10/2017 13:37:52 PagSeguro.DirectPayment.CreditCard[info]: Begin
+16/10/2017 13:37:52 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+16/10/2017 13:37:52 PagSeguro.Checkout[info]: Params: {"reference":"10","notificationURL":"http:\/\/localhost\/nova_loja\/psckttransparente\/notification","billingAddressStreet":"Rua helio da silveira reis","billingAddressNumber":"450","billingAddressComplement":"","billingAddressCity":"fortaleza","billingAddressState":"CE","billingAddressDistrict":"luciano cavalcante","billingAddressPostalCode":"60813790","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"pedro duarte","creditCardHolderCPF":"02302215303","installmentQuantity":"1","installmentValue":"648.24","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"pedro_duartte2@hotmail.com","senderName":"pedro duarte","senderEmail":"c72643007014051446255@sandbox.pagseguro.com.br","senderAreaCode":"85","senderPhone":"(**) 8888-****","senderCPF":"023.***.***-**","senderIp":"127.0.0.1","senderHash":"558332cf4b15f438d755e86870fbf1ec8cf0b2b839cfdf8a15892bf3901a5790","shippingCost":"49.24","shippingAddressStreet":"Rua helio da silveira reis","shippingAddressNumber":"450","shippingAddressComplement":"","shippingAddressCity":"fortaleza","shippingAddressState":"CE","shippingAddressDistrict":"luciano cavalcante","shippingAddressPostalCode":"60813790","shippingAddressCountry":"BRA","creditCardToken":"94fd1619a40649f0bf48c1e7adf5f79e"}
+16/10/2017 13:37:54 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 566F4B2C-E4B1-438C-9D37-AC9146DE78AD
+26/10/2017 14:50:06 PagSeguro.Session[info]: Begin
+26/10/2017 14:50:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pedro_duartte2%40hotmail.com&token=B889A1DA107844C6A90BFBE4C24D99BA
+26/10/2017 14:50:09 PagSeguro.Session[info]: Session ID: 0805d66f0d5d4c4bbdb290bde0df9913
